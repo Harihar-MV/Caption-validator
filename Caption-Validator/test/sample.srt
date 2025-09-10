@@ -1,0 +1,15 @@
+1
+00:00:01,000 --> 00:00:06,000
+This is the first caption in SRT format.
+
+2
+00:00:07,000 --> 00:00:12,000
+This is the second caption in SRT format.
+
+3
+00:00:15,000 --> 00:00:20,000
+This is the third caption in SRT format.
+
+4
+00:00:22,000 --> 00:00:28,000
+This is the fourth caption in SRT format.

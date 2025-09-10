@@ -1,0 +1,4 @@
+This is a plain text file with no caption formatting.
+It should be detected as an unsupported format.
+No timing information or any structured data here.
+Just plain text that looks nothing like captions.

@@ -1,0 +1,19 @@
+{
+  "captions": [
+    {
+      "startTime": 1.0,
+      "endTime": 5.0,
+      "text": "This is a JSON-based caption format"
+    },
+    {
+      "startTime": 6.0,
+      "endTime": 10.0,
+      "text": "It should not be processed by the caption validator"
+    },
+    {
+      "startTime": 15.0,
+      "endTime": 20.0,
+      "text": "But it has timing information in a different structure"
+    }
+  ]
+}

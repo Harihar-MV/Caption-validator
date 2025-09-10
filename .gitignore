@@ -1,6 +1,7 @@
-# Binaries
+# Binaries (ignore only the binary files, not the source directory)
 caption-validator
 main
+mock_language_api/mock_api
 *.exe
 *.dll
 *.so
@@ -28,8 +29,7 @@ vendor/
 # Test outputs
 *.out
 
-# Ignore mock binaries
-mock_language_api/mock_api
+
 
 # Ignore other temporary files
 *.tmp

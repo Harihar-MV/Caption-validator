@@ -1,0 +1,23 @@
+1
+00:00:01,000 --> 00:05:00,000
+This is episode 3 in SRT format with full coverage.
+
+2
+00:05:00,500 --> 00:10:00,000
+SRT uses commas for milliseconds instead of periods.
+
+3
+00:10:00,500 --> 00:15:00,000
+The batch validator should handle both formats.
+
+4
+00:15:00,500 --> 00:20:00,000
+Content is in English and has full coverage.
+
+5
+00:20:00,500 --> 00:25:00,000
+All validation checks should pass.
+
+6
+00:25:00,500 --> 00:30:00,000
+End of episode 3 in SRT format.
