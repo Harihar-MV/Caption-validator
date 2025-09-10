@@ -1,0 +1,36 @@
+# Binaries
+caption-validator
+main
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Logs and outputs
+*.log
+error.txt
+output.txt
+stdout_output*.txt
+stderr_output*.txt
+validation_logs.txt
+validation_results.json
+
+# Editor and OS files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+vendor/
+
+# Test outputs
+*.out
+
+# Ignore mock binaries
+mock_language_api/mock_api
+
+# Ignore other temporary files
+*.tmp
+*.bak
