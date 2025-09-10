@@ -1,4 +1,4 @@
-# Caption-validator# Caption Validator
+# Caption Validator
 
 A command-line tool written in Go for validating WebVTT and SRT caption files.
 
